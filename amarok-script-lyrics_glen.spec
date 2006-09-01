@@ -1,6 +1,6 @@
 %define		scriptname	lyrics_glen
 Summary:	amaroK lyrics script by glen
-Name:		amarok-script-glen
+Name:		amarok-lyrics-glen
 Version:	0.1
 Release:	1
 License:	GPL
