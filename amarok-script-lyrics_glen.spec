@@ -2,13 +2,14 @@
 Summary:	amaroK lyrics script by glen
 Name:		amarok-lyrics-glen
 Version:	0.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Applications/Multimedia
 Source0:	lyrics_glen.tar.bz2
 # Source0-md5:	8b42a91c90f3a675a9d73019a030f23e
 BuildRequires:	sed >= 4.0
 Requires:	amarok
+Requires:	ruby-modules
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
