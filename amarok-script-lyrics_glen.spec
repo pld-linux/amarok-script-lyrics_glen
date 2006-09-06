@@ -1,5 +1,6 @@
 %define		scriptname	lyrics_glen
 Summary:	amaroK lyrics script by glen
+Summary(pl):	Skrypt autorstwa glena do tekstów piosenek w amaroKu
 Name:		amarok-lyrics-glen
 Version:	0.1
 Release:	2
@@ -17,6 +18,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 This package contains lyrc lyrics wrapper written by glen.
+
+%description -l pl
+Ten pakiet zawiera wrapper do tekstów piosenek lyrc napisany przez
+glena.
 
 %prep
 %setup -q -n %{scriptname}
