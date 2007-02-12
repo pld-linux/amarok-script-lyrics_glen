@@ -1,6 +1,6 @@
 %define		scriptname	lyrics_glen
 Summary:	amaroK lyrics script by glen
-Summary(pl.UTF-8):   Skrypt autorstwa glena do tekstów piosenek w amaroKu
+Summary(pl.UTF-8):	Skrypt autorstwa glena do tekstów piosenek w amaroKu
 Name:		amarok-lyrics-glen
 Version:	0.1
 Release:	2
